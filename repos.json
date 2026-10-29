@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
+      "name": "TestRun",
       "repo": "https://github.com/ThiasBayu9/kernel_surya",
       "branch": "silont",
       "device": "surya"
